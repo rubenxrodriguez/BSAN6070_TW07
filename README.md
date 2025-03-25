@@ -66,7 +66,3 @@ This project highlights:
 - The trade-offs between PCA-based feature reduction and full-featured training.
 - The impact of PCA on model interpretability.
 - The importance of stability testing in feature selection.
-
-## Author
-This script was developed as part of an exploration into dimensionality reduction, model evaluation, and interpretability techniques using `sklearn`, `xgboost`, and `shap`.
-
