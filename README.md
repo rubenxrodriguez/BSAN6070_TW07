@@ -2,7 +2,7 @@
 # PCA and XGBoost Model Evaluation on Breast Cancer Dataset
 
 ## Overview
-This project demonstrates the application of Principal Component Analysis (PCA) for dimensionality reduction and the use of XGBoost for classification on the Breast Cancer dataset from `sklearn.datasets`. It also evaluates feature importance using SHAP and Gain metrics and tests model stability by introducing noise and shuffling data.
+This project demonstrates the application of Principal Component Analysis (PCA) for dimensionality reduction and the use of XGBoost for classification on the Breast Cancer dataset from `sklearn.datasets`. It also evaluates feature importance using SHAP and Gain metrics and tests model stability by introducing noise and shuffling data. The motivation behind using PCA to improve the accuracy and stability of XGBoost models comes from the research article : https://medium.com/georgian-impact-blog/on-the-trustworthiness-of-tree-ensemble-methods-ce62df5d1482
 
 ## Dependencies
 Ensure you have the following Python libraries installed before running the script:
